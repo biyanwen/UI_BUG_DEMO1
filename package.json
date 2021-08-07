@@ -1,5 +1,5 @@
 {
-  "name": "hello-world",
+  "name": "ui_bug_demo1",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "hand-painted-ui-vue": "^0.0.1",
+    "node-esm-loader": "^0.0.1-alpha",
     "vue": "^3.0.0"
   },
   "devDependencies": {
