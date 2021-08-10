@@ -4212,14 +4212,15 @@ gzip-size@^5.0.0:
     duplexer "^0.1.1"
     pify "^4.0.1"
 
-hand-painted-ui-vue@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.npmjs.org/hand-painted-ui-vue/-/hand-painted-ui-vue-0.0.1.tgz#f22ac9d7fd71d57537b13b890fc171c3f065f759"
-  integrity sha512-dUyJeYv0kuqqT57sS0vNAM6xlr7wK4psAhuSbuKk2UyJI/8640KR57phDv9d7K9F0B0oIHn1a3oNM9gRlZS5Sg==
+hand-painted-ui-vue@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.npmjs.org/hand-painted-ui-vue/-/hand-painted-ui-vue-0.0.4.tgz#ce63e9d0b7e53461f8a1e2c91585bb08b6fad088"
+  integrity sha512-MJf8wkNIR38lYSvOFWv6CyPmDT55q9BATAxsQwG6SASQCEScRARXB2oq2/3BNkguvP0S6AWjMQTLGQsUL5S63Q==
   dependencies:
     github-markdown-css "^4.0.0"
     marked "1.1.1"
     prismjs "1.21.0"
+    tslib "^2.3.0"
     vue "3.0.0"
     vue-router "4.0.0-beta.3"
 
@@ -7956,6 +7957,11 @@ tslib@^1.8.0, tslib@^1.8.1:
   version "1.14.1"
   resolved "https://registry.nlark.com/tslib/download/tslib-1.14.1.tgz?cache=0&sync_timestamp=1623452008922&other_urls=https%3A%2F%2Fregistry.nlark.com%2Ftslib%2Fdownload%2Ftslib-1.14.1.tgz#cf2d38bdc34a134bcaf1091c41f6619e2f672d00"
   integrity sha1-zy04vcNKE0vK8QkcQfZhni9nLQA=
+
+tslib@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.npmjs.org/tslib/-/tslib-2.3.0.tgz#803b8cdab3e12ba581a4ca41c8839bbb0dacb09e"
+  integrity sha512-N82ooyxVNm6h1riLCoyS9e3fuJ3AMG2zIZs2Gd1ATcSFjSA23Q0fzjjZeh0jbJvWVDZ0cJT8yaNNaaXHzueNjg==
 
 tslint@^5.20.1:
   version "5.20.1"
